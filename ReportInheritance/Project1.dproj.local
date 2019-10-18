@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.631,=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.876,C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Project1.dproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.320,=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.035,C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\tReportData.pas=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Unit2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.231,=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.020,C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.035,C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\tReportData.dfm=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Unit2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.020,C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\LetsStart\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.423,=C:\Users\helix_000\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
